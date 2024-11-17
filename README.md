@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Nothing**
+ 🔭 I’m currently working on **C Calculator**
  
  🌱 I’m currently learning **C, rust, and wasm**
 
